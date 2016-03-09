@@ -8,6 +8,8 @@ var refresh = function(){
 			$scope.contactlist = response;
 			$scope.contact = "";
 		});
+		
+		
 };
 	
 refresh();
